@@ -155,7 +155,7 @@ def main():
     ]
     if not df_without_bookings.empty:
         print("Excluded Rows due to incomplete or invalid data:")
-        print(df_with_bookings.head())
+        print(df_without_bookings.head())
         save_data(df_without_bookings, "person_without_bookings.csv")
     else:
         print("No rows were excluded.")
