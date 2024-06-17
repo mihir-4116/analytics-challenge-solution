@@ -1,0 +1,101 @@
+id,displayId,name,description
+12c5d420-9bbc-455d-9794-7780bc5fea5b,d24fcc15-c1ac-46b1-aca8-dc998cf45e78,Computer Science,The study of computers and computational systems.
+d3d06262-f539-4a05-9e71-6e6113e9529b,1e4c7f9f-40f5-4032-bd44-7036952e3105,Mechanical Engineering,The design and manufacture of mechanical systems.
+19a8bee2-7566-411a-9919-61d44ccc81ef,c84821a7-9878-46e4-a666-34a538c10aa2,Electrical Engineering,The study of electricity and its applications.
+b33ae65d-523e-48c6-b10e-59346e1c6523,d92604c6-1626-4794-9cce-cf0a7e136c19,Biology,The study of living organisms.
+3c0ebd74-4105-4532-a321-39bc3d6ab3d8,7468a134-27ba-4c1e-8b24-8ff51cecfb5c,Chemistry,The study of substances and their properties.
+9dd4dfda-b0d2-4d4a-8642-a44db00f4a15,5a549348-08b9-406a-80ec-ce1edd4be229,Physics,"The study of matter, energy, and the fundamental forces of nature."
+38b9874d-dd51-433a-bea9-2ef3ec79cb21,351ec0a1-c1f1-428c-b8be-65168be3f106,Mathematics,"The study of numbers, quantities, and shapes."
+2c4e188e-85c2-4366-b282-d70974be0631,a210e93e-b162-4d63-a046-d28ea1f309cc,Economics,"The study of the production, distribution, and consumption of goods and services."
+4d0b9e50-43d1-4da0-af2b-97d510bab9e2,167b9c80-7561-47be-8085-2d6928384a8d,Psychology,The study of the mind and behavior.
+dda33b53-0fff-4371-8a45-35a2192e86e8,66b3693d-0cc9-4c4a-83ae-a3fb65ac926d,Sociology,The study of society and social behavior.
+f6cf2da9-277c-4780-8c18-2a4727d35f64,10d8ebb2-a991-43c8-870b-5012d7cfe7df,History,The study of past events.
+4fc222e3-9728-408a-b24b-171c919f81ea,c10fb946-a52a-4709-be02-adfd54a22989,Political Science,The study of politics and government.
+2390b2fb-f180-48d3-989d-5e359fdf867c,88e60e27-de21-40d9-a326-4ad7cc0d4f28,Philosophy,"The study of the fundamental nature of knowledge, reality, and existence."
+37979873-7c28-4b44-83ee-438c3e6810e9,04d7d4e7-8a39-43ce-ac4d-6d236bd561dd,English,The study of the English language and literature.
+1e0ce7f9-cbf4-44c4-bfb7-725db39d17ea,a047ca63-0ce9-47fc-a30b-7c3c700f53f0,Education,The study of teaching and learning methods.
+ad1e7d8e-5114-413f-921d-a35552003ee4,41149669-ae31-4873-a214-95f409c581fb,Business Administration,The study of business management and operations.
+f66e3050-2b7f-4d30-bc1e-f1c26d6a2aa2,c9185d45-aef3-4e8e-8c96-b7fdfa1b3b5f,Accounting,The study of financial record keeping and reporting.
+c782f52b-d7ac-47f5-836a-376e4fccf31f,6b57c035-c233-403c-956b-8954da89a830,Marketing,The study of market research and consumer behavior.
+49f57722-52fb-47b6-8e1e-54de177e0d19,577e82d0-af7f-42c8-b8a4-b2aebd5f3a04,Finance,The study of money management and investment.
+edca0a28-476b-4782-86be-a06806d87ab8,8cd0d078-9ec3-4099-936f-da60da492b7b,Art,The study of visual and performing arts.
+e00c66ff-cb22-45b1-a5e8-8b3cde249016,e2044bd4-1abd-4618-afe5-40a46e84de86,Music,"The study of musical theory, history, and performance."
+49150744-aac2-44f9-8ca0-05ae90757bac,c8065501-6b59-49d3-8c80-845592c30a33,Theater,The study of drama and performance arts.
+bcf5b4b8-c773-40a4-9ec1-9767753c0d44,a72879e2-e944-4360-9850-c11ff0b141db,Nursing,The study of patient care and medical assistance.
+1eeb53c2-5e82-4c6a-a81f-bea4af78b2f8,3c772495-8dc7-4c19-998d-9c0668a2e556,Health Science,The study of health and medical science.
+39af2a17-08ce-4282-8dd0-de4efe79980f,ce75c366-c249-4564-b762-fae94bbeee1b,Environmental Science,The study of the environment and solutions to environmental problems.
+5d92edf2-5248-4363-8e50-f18ad6a67a8c,4c310e5e-a0ec-421c-8534-fd3840f9b947,Geography,The study of the Earth's physical features and human activity.
+37b765f0-fc71-4c9c-838b-f3a5ce0706ff,f9be4cc1-b02c-4b75-86d9-808f8b3b831b,Anthropology,The study of human societies and cultures.
+b43b2475-66e9-49df-b826-4dbb0bb15b8b,284dba4b-11ba-4538-aa6b-4379df7e5ca9,Criminal Justice,The study of the criminal justice system and law enforcement.
+8402b4cd-a049-4ae7-8649-16af0c4c8c62,04412e42-e934-4548-9ba9-23f51c7000fc,Social Work,The study of helping individuals and communities.
+2c6e4248-da4d-4cb3-ac58-3cd04aa203fa,d4e98e77-084c-44cb-96f4-daa070339837,Communications,The study of information exchange and media.
+3100982d-c037-4a3f-a3ed-83e66b248c8d,c3d5bdf4-317c-4574-bd52-5faec3825597,Journalism,The study of news gathering and reporting.
+cb7207d7-79d6-497f-a7e6-ceebd62576db,71701dba-e80c-4632-8c92-1bbc924b0a07,Linguistics,The study of language and its structure.
+6dfeb9a0-918b-4038-ae4f-63ab374b9311,2764f028-3b11-4620-827c-fa1f6110b6c9,Foreign Languages,The study of languages other than one's native language.
+e0bad25d-7fb1-4dd7-a0e8-a11b41dcd281,cacf6a8b-c266-4454-a56d-a6e3af9c894d,Architecture,The study of building design and construction.
+fa7f1f45-106f-4e8d-bd8c-cce0fd276256,f18ef9ba-d9d5-432e-ac60-cf6590af8acd,Urban Planning,The study of city and regional planning.
+521b6a84-52f2-488c-b310-c95ae8ff1021,fa1fc96f-24a5-4006-b281-fdace155fef6,Agriculture,The study of farming and food production.
+6b796d48-625b-4acf-96db-141d2e7d7b4b,39e7879a-f9dd-46b8-b445-0ccbadc4209f,Veterinary Medicine,The study of animal health and care.
+9cbfac3c-fb8a-4ebd-b677-c223a57ac329,4800de25-bed7-43b2-8556-35d273fc3f49,Public Health,The study of community health and disease prevention.
+4ae8186a-1c4d-4b5e-8e7e-385e8b3e9c79,0bd88d6a-a821-4755-9c94-f40f6bee0daf,Law,The study of legal systems and practices.
+4ff85e34-9da3-47f2-beee-ec6175d82186,dfbc61aa-9c19-4b85-ba9f-aab66a99f839,Library Science,The study of library management and information resources.
+036ab592-da37-4aac-ac4b-3a2eb132eb76,27ff2312-60fb-4128-aefb-985084dd84bd,Computer Science,The study of computers and computational systems.
+efbed11c-6828-4d9a-bdc3-ffadce27497e,78c50e49-8479-4955-9a7c-01e1566639db,Mechanical Engineering,The design and manufacture of mechanical systems.
+e4aa68ec-6374-48d4-a36d-8ca39ac807a2,4dafff49-03ab-44b7-ba88-0e2e22acc992,Electrical Engineering,The study of electricity and its applications.
+4e64e115-2f29-4046-95c6-3f34c14feb83,75208d53-cb69-4b0c-ada6-e6d810d4fb14,Biology,The study of living organisms.
+eac5b480-7e00-4d5e-add6-fc915fb2e8be,5f6518c0-3ade-43af-8ac9-f57de1a1f923,Chemistry,The study of substances and their properties.
+534a2149-3015-472c-9de1-5db9e0f6b43e,64148372-6fbd-42b9-8579-e7a976266e26,Physics,"The study of matter, energy, and the fundamental forces of nature."
+e3ae6951-0a5b-40c4-8b20-fd8b9ce4cecf,c5bfb9d7-bdaf-4022-b7f2-71a0171c0a39,Mathematics,"The study of numbers, quantities, and shapes."
+d02446db-85a5-472f-be66-392204bff177,37aae3ad-460c-4bfe-bb5e-bf69cf69ae0a,Economics,"The study of the production, distribution, and consumption of goods and services."
+049d0ea9-2055-46a4-b821-0cbf6e36e4d5,2c84420a-ea48-498e-a5e2-4f1c35da53d5,Psychology,The study of the mind and behavior.
+34c2e9da-d62c-4fdd-ad94-7befd2595222,dfc050e4-0c5b-4075-ae6d-ea8cac8a1624,Sociology,The study of society and social behavior.
+af428f7f-7d22-4949-924b-37b9c13140fb,d86f4850-7f97-4e8d-a6e7-aa94fe3ccd52,History,The study of past events.
+7f5bc724-d171-406e-bf3b-cd9d868174f2,6543b58d-48be-4076-81d7-242705449a72,Political Science,The study of politics and government.
+febd48e5-fa29-4288-94cf-a257e875bbc5,11c2c53d-d613-43f5-94a1-05e10bbc65e3,Philosophy,"The study of the fundamental nature of knowledge, reality, and existence."
+e988d274-0abb-4d30-86fd-65f7e0f6b057,777b7762-57ab-4aed-82e5-f888f1136d3b,English,The study of the English language and literature.
+dda17862-a51d-49f5-bc9f-b2caa7af10ef,0c30d0e0-7882-4a22-b25d-bc7906a6ac85,Education,The study of teaching and learning methods.
+c132b04e-83bd-4b24-8fe4-5a9a015e7c93,2d97f743-025a-44e3-9d85-8a56694596db,Business Administration,The study of business management and operations.
+16f85a4c-9e5b-4f05-ac70-25acb3032c48,0da7a765-c6a5-4769-8a82-5c2ce90266e1,Accounting,The study of financial record keeping and reporting.
+cabf5871-d0d1-43aa-a1e0-7b054ea1f92a,30de28e4-d3ae-4c14-af72-2bbd6426e15b,Marketing,The study of market research and consumer behavior.
+f89ddd78-e74e-469c-8808-241bd8c36f67,f71ad4ca-19bf-4c17-ae15-b0a3c4cc4410,Finance,The study of money management and investment.
+b12e86e4-dc4d-49cb-8ec3-b0c9f7f23b26,8f20828e-f8eb-45a9-a8a8-2de18b98a4b2,Art,The study of visual and performing arts.
+9a1dc165-a7e3-4d94-96b3-aed7943cd257,706c6c8e-1393-45ab-aaf3-da506ecf4e34,Music,"The study of musical theory, history, and performance."
+f5b20856-42b4-48bd-93d9-fbe2712c9e55,1abf440d-a728-4da3-8fc3-b2edf4779bb6,Theater,The study of drama and performance arts.
+92ba9844-0c5e-4bfa-ad1c-ab41f8ac3d5e,309b4ad1-9540-4324-a5d8-21c507b5af91,Nursing,The study of patient care and medical assistance.
+31a96803-e0b0-464c-b44c-14316de7195f,151efff6-2d2c-481c-8ef9-dbcb193eaa25,Health Science,The study of health and medical science.
+ce83ec69-0901-4423-87f6-92734cc8feb2,730eb991-a367-4f80-8373-c00c0ee06e84,Environmental Science,The study of the environment and solutions to environmental problems.
+b6f11273-e674-4c30-afa1-7ee62c1abb4b,c999195f-a03c-4c20-8b89-4554e6d0c5af,Geography,The study of the Earth's physical features and human activity.
+5538f94c-9d38-4c6c-ab29-0987d27ec313,aa60f295-c7a3-42b6-b33d-d89b97db7884,Anthropology,The study of human societies and cultures.
+bd5df5b0-28d6-45d5-8637-31903ae85330,bf10ea30-d781-4636-97c7-b99eaee61dc2,Criminal Justice,The study of the criminal justice system and law enforcement.
+52e4d490-31bd-48ea-ab9b-8f9eaf720b12,6e2fcabb-8f3d-49f0-886b-8ed66e343958,Social Work,The study of helping individuals and communities.
+c8e9582b-d7bd-48cb-9cab-9f953712e952,7a2fc431-4201-42cd-9caf-491bbea4d309,Communications,The study of information exchange and media.
+ebbcecbe-be84-4fb4-bb4e-6420356ebe5a,b2193225-084b-4016-a829-9625f5f60815,Journalism,The study of news gathering and reporting.
+bc618e46-adeb-4bfa-a8dc-9e7a3bbad058,6c941ddb-53ee-4a0e-b912-1d0617f3db22,Linguistics,The study of language and its structure.
+589319dd-8b62-4842-bb7a-855eef1f8d6e,4f7a72a5-25b3-40fd-bf95-aab509eddcb5,Foreign Languages,The study of languages other than one's native language.
+5e03ed8a-d9fb-4271-aa1d-73df523dcc57,c36473a3-56d9-4ba2-9eee-c6a651dfab9b,Architecture,The study of building design and construction.
+9630ccdb-1fb5-411d-a129-562993ba0569,7c0b011d-5a4c-4526-ad9a-df4b18928068,Urban Planning,The study of city and regional planning.
+15603f87-6ae3-403c-aad6-3cd82bdddc1e,3dd7240b-6f61-4af6-b953-30cb0705bdcc,Agriculture,The study of farming and food production.
+e6f83c77-1538-4fec-934c-6a4ec6617268,f7f814f7-2b9e-42bf-ac9d-fbd70372aebe,Veterinary Medicine,The study of animal health and care.
+d464054e-8f96-4d3d-b9d5-a40f34507b88,24b4daaf-4771-450c-896c-98565cc327cb,Public Health,The study of community health and disease prevention.
+fcda77f1-d71f-4cbe-bb5c-fb12877aec40,c70ffb19-373a-46f4-a2fe-ca38b4e014f5,Law,The study of legal systems and practices.
+450d53ce-7643-41e5-9d0d-b9d1eacead36,0a6bdc3e-9a22-4153-ac64-db5f4bdfbfa0,Library Science,The study of library management and information resources.
+91d3ffda-02df-4108-a302-e3764e021ccf,c7c4fc45-cf72-4bac-8e31-0e5dc0f1bb46,Computer Science,The study of computers and computational systems.
+ab3572a8-144f-4148-9862-465bd9d7148b,a1a5241f-26ac-42f1-aac1-4c8358f69e45,Mechanical Engineering,The design and manufacture of mechanical systems.
+058ec2ea-9361-4a0a-a0b1-c81e99f2349a,5a076fd8-8e14-4c97-97a3-0d747dfb6883,Electrical Engineering,The study of electricity and its applications.
+2ab329ca-9f50-4c70-9698-f44934cf4b69,86565318-c69d-4b24-a6e7-a8997a8ed37e,Biology,The study of living organisms.
+32a60bdd-f493-4c44-a9e2-e45c0209be5e,a8ac4907-3edd-4e5c-8580-cc24023ef28d,Chemistry,The study of substances and their properties.
+fe8da200-3e6c-4017-983e-19b5aff7e800,f10f5f47-30bf-4aa7-ac33-890f48b80cf6,Physics,"The study of matter, energy, and the fundamental forces of nature."
+4ad06de7-beaf-454c-aeda-59316f4a641c,062815ec-ea52-4bc5-abe4-4c25af177dc8,Mathematics,"The study of numbers, quantities, and shapes."
+e2e80629-cfb6-4daa-b56c-6795ccdc4e48,12623946-2af7-4464-a8e0-2566ea031040,Economics,"The study of the production, distribution, and consumption of goods and services."
+37b5c1f9-c15a-4947-b64d-025dc64c5241,39117613-cc53-48ed-96bb-deaff7fc37d3,Psychology,The study of the mind and behavior.
+9e9ca12c-4178-40b5-a715-f166244e3adb,843baa78-1896-4ba7-9433-283632d3c36f,Sociology,The study of society and social behavior.
+d2d40201-0152-4e55-bf95-406c1f66295b,db80c632-ca55-44ca-9201-ab7e3e7b935f,History,The study of past events.
+b32c172c-a1d5-4cc9-a1fc-f5f4b2365ea4,d5ff57d1-f2f4-41c3-9a17-9d38643cc6b8,Political Science,The study of politics and government.
+a680ecae-78a0-4d78-88cd-4f0163e7d4da,4aefa076-4126-472b-a2b9-d0703dfff36a,Philosophy,"The study of the fundamental nature of knowledge, reality, and existence."
+cc5f8133-74b9-43cc-b15e-b159a78b93fd,543e853c-20d9-4f40-9f8c-3ddf6533f68e,English,The study of the English language and literature.
+551cfc0c-5de9-4672-90a2-b0f5b644ed8c,a4b2625b-b619-4ab9-939b-93e3e5c33f56,Education,The study of teaching and learning methods.
+1e0b04ba-18d5-4ab9-a1e5-23449bbc4a0b,fe49afdf-4147-4118-9545-3f9d777f256f,Business Administration,The study of business management and operations.
+d25284f4-c84e-48db-b41e-dc42085a55f9,e0316b35-cebb-4aca-bb21-195e46fe7b85,Accounting,The study of financial record keeping and reporting.
+1f2a78f5-deae-438d-be76-6d733a7dac87,a4679772-25b6-42a3-89e3-ec9f85cf3507,Marketing,The study of market research and consumer behavior.
+c6f0e3ea-fc4a-4768-a155-f0bf0b943717,365217a2-ee94-4f53-ab0d-afa5dae82b81,Finance,The study of money management and investment.
+62f9fcfb-92d6-4bc8-96ff-e8847c7b27ae,a643c8b1-2260-47f0-a809-65f8e11fc777,Art,The study of visual and performing arts.
