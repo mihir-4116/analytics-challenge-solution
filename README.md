@@ -1,8 +1,7 @@
-# analytics-challenge-solution
+# Analytics Challenge Solution
 
-<p>Both question answers are in separate file</p>
+<p>This repository contains the solutions for the analytics challenge</p>
 
-Question 1 answer is in q1_solution.ipynb file and high level diagram is in q1_solution_diahram.png file
+<b>Question 1</b> : Solution in <b>q1_solution.ipynb</b>, high-level diagram in <b>q1_solution_diagram.png</b> file
 </br>
-</br>
-Question 2 answer is in q2_solution.py file
+<b>Question 2</b> : Solution in <b>q2_solution.py</b> file
