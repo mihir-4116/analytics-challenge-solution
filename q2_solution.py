@@ -84,7 +84,6 @@ def clean_data(df):
     df["dob"] = df["dob"].apply(parse_date)
     df["dob"] = df["dob"].fillna("")
 
-
     # Validate email addresses
     df = df[df["email"].apply(validate_email)]
 
@@ -93,9 +92,19 @@ def clean_data(df):
 
     df.drop(columns=["firstName", "lastName"], inplace=True)
 
-    df[["address1", "address2" ,"city", "state"]] = df["address"].apply(
+    df[["address1", "address2", "city", "state"]] = df["address"].apply(
         lambda x: pd.Series(extract_city_state(x))
     )
+
+    # Keep addresses only if they form a full address
+    df = df[(df["address1"].notna()) & (df["city"].notna()) & (df["state"].notna())]
+
+    # Fill missing values with empty strings
+    df["majorIds"] = df["majorIds"].fillna("")
+    df["address1"] = df["address1"].fillna("")
+    df["address2"] = df["address2"].fillna("")
+    df["city"] = df["city"].fillna("")
+    df["state"] = df["state"].fillna("")
 
     return df
 
@@ -164,27 +173,48 @@ def main():
 
 
 def print_analytics(df_with_bookings, df_without_bookings):
-    print("-------------Analytics----------------")
-    print(f"Persons without bookings: {len(df_without_bookings)}")
+    print("------------- Analytics ----------------")
     print(f"Persons with bookings: {len(df_with_bookings)}")
+    print(f"Persons without bookings: {len(df_without_bookings)}")
+
+    # Additional analytics
+    print("\n-- Additional Analytics --")
+    print(f"Unique Majors: {df_with_bookings['majorIds'].nunique()}")
+    print(f"Unique States: {df_with_bookings['state'].nunique()}")
+    print(
+        f"Average Age of Persons: {df_with_bookings['dob'].apply(lambda x: pd.to_datetime('today').year - pd.to_datetime(x).year).mean():.2f}"
+    )
+
 
 def print_assumptions():
-    print("-------------Assumtions----------------")
-    print("No zip code is provided in address of person so extracting that column isn't possible")
-    print("We are extracting city and state from person address")
-    print("Successful record will have at least one booking")
-    print("Email column can't be unique as multiple records with same email are present")
-    print("Address1 definition is ambiguous")
-    print("Address1 will include street name and address2 will include city and state combination")
+    print("------------- Assumptions ----------------")
+    print(
+        "No zip code is provided in address of person so extracting that column isn't possible."
+    )
+    print("We are extracting city and state from person address.")
+    print("Successful record will have at least one booking.")
+    print(
+        "Email column can't be unique as multiple records with same email are present."
+    )
+    print(
+        "Address1 definition is ambiguous, So i am checking it based on street, state and city values. To make address1 all values should present"
+    )
+    print(
+        "Address1 will include street name and address2 will include city and state combination."
+    )
+
 
 def print_data_cleaning_strategy():
-    print("-------------Data Cleaning Strategy----------------")
-    print("Drop duplicate combination of personId and email just to make sure data is unique")
-    print("Verify all emails are valid one")
+    print("------------- Data Cleaning Strategy ----------------")
     print(
-        "Replacing null data with empty string in case of dob, city, state and majorIds"
+        "Drop duplicate combination of personId and email just to make sure data is unique."
     )
-    print("Drop columns firstName and lastName and merge it as new name column")
+    print("Verify all emails are valid.")
+    print(
+        "Replacing null data with empty string in case of dob, city, state, majorIds, address1 and address2"
+    )
+    print("Drop columns firstName and lastName and merge it as new name column.")
+    print("Only keep addresses that have both city and state components.")
 
 
 if __name__ == "__main__":
