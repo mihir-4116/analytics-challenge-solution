@@ -36,14 +36,13 @@ def print_assumptions():
 def print_data_cleaning_strategy():
     print("------------- Data Cleaning Strategy ----------------")
     print(
-        "Drop duplicate combination of personId and email just to make sure data is unique."
+        "Drop duplicate combination of personId and email just to make sure data is unique"
     )
-    print("Verify all emails are valid.")
+    print("Verify all emails are valid")
     print(
         "Replacing null data with empty string in case of dob, city, state, majorIds, address1 and address2"
     )
-    print("Drop columns firstName and lastName and merge it as new name column.")
-    print("Only keep addresses that have both city and state components.")
+    print("Drop columns firstName and lastName and merge it as new name column")
 
 
 def load_data(inventory_path, majors_path, occupancy_path, persons_path):
